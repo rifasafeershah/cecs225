@@ -1,0 +1,52 @@
+4 Variable KMap homework
+
+Exercise version 1
+Y=m7+m13+m15+d0+d3+d8+d10+d12+d14
+x	0	x	0
+0	0	1	0
+x	1	1	x
+x	0	0	x
+
+Y=AB + BCD
+row 2 group of 4 -> AB
+column 2 group of 2 -> BCD
+
+
+
+Exercise version 2
+Y=m7+m13+m15+d0+d3+d6+d8+d10+d12+d14
+x	0	x	0
+0	0	1	x
+x	1	1	x
+x	0	0	x
+
+Y=AB+BC
+
+
+Exercise version 3
+Y=m1+m3+m4+m6+m9+m11+d0+d3+d8+d10+d12+d14
+
+x	1	1	0
+1	0	0	1
+x	0	0	x
+x	1	1	x
+
+Y=BD'+B'D
+
+
+Exercise version 4
+Y=m1+m3+m4+m6+m9+m11+d0+d2+d8+d10+d12+d14
+
+x	1	1	x
+1	0	0	1
+x	0	0	x
+x	1	1	x
+Y=B'+D'
+
+Exercise version 5
+Y=m2+m3+m8+m9+m10+m12+m13+m14
+0	0	1	1
+0	0	0	0
+1	1	0	1
+1	1	0	1
+Y=AC'+AD'+A'B'C
