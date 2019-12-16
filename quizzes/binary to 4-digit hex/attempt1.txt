@@ -1,0 +1,9 @@
+1. Convert the binary quantity 1000011101100001 to HEX: 0x8761
+
+2. Convert the binary quantity 1100111110010100 to HEX: 0xcf94
+
+3. Convert the binary quantity 101100011101010 to HEX: 0x58ea
+
+4. Convert the binary quatity 100000111001101 to HEX: 0x41cd
+
+5. Convert the binary quantity 1001101010101110 to HEX: 0x9aae
